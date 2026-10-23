@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Math Mentor Kids</string>
+    <string name="title">Math Photo Tutor</string>
+    <string name="hint_equation">Type or scan a math equation</string>
+    <string name="btn_solve">Solve</string>
+    <string name="btn_example">Example</string>
+    <string name="btn_take_photo">Take Photo</string>
+    <string name="btn_clear">Clear</string>
+    <string name="result_default">Your steps and answer will appear here.</string>
+    <string name="result_title">Step-by-step solution</string>
+</resources>
